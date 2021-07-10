@@ -4,4 +4,4 @@ This prototype implements the framework for buiding a web-based scRNA-seq data d
 
 This app enables reordering the violinplot to generate the final figure that best emphasizes the biological meaning. In addition, a preliminary implementation for caching app running data in the user's browser was also tested. Although this example is a simplified user's case, new functionalities can be readily plugged into the existing framework to expand its usage. Check more information from the notebook and the sample usage clip.
 
-<video style="width:70%" controls src="example.mov" />
+![example]("https://github.com/sf-nevermore/scRNA_Portal_Prototype/blob/master/example.mov")
